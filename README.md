@@ -1,2 +1,4 @@
-# github-history-scala-language
-"The GitHub History of the Scala Language" project in Datacamp's Data Scientist with Python track
+# github-history-of-scala-language
+
+Find the true Scala experts by exploring the development history of the Scala language in Git and GitHub
+
